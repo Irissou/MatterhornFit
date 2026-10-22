@@ -16,6 +16,9 @@ Second fit model: Moffat + polynomial fit (saved in figures/fit_moffat_poly.png)
 ## Takeaway
 A single Moffat profile captures the overall shape of the peak but misses its asymmetry (the right side wiggle); adding a polynomial term follows the skyline much more closely.
 
+<img width="2520" height="460" alt="MatterhornFit" src="https://github.com/user-attachments/assets/a0181c62-884b-47d5-9885-0581498bbb4d" />
+
+
 ## Run it
 ```
 pip install -r requirements.txt
